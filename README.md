@@ -1,2 +1,2 @@
-# B4_clone2
+# B4_clone
 Temporary repo for cloning practice
